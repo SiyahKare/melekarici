@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "641f18c6f9c976986695120530df811c",
+    "content-hash": "1629043068043737b361b7da7f8908cf",
     "packages": [
         {
             "name": "almasaeed2010/adminlte",
@@ -48,29 +48,29 @@
         },
         {
             "name": "backpack/base",
-            "version": "0.7.25",
+            "version": "0.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Laravel-Backpack/Base.git",
-                "reference": "4ab8bafaa2d339bff0cc1c8543b50caf33ca1de3"
+                "reference": "a47899310e7ad3490b50d9cd7d64d1bdc88dbf08"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Laravel-Backpack/Base/zipball/4ab8bafaa2d339bff0cc1c8543b50caf33ca1de3",
-                "reference": "4ab8bafaa2d339bff0cc1c8543b50caf33ca1de3",
+                "url": "https://api.github.com/repos/Laravel-Backpack/Base/zipball/a47899310e7ad3490b50d9cd7d64d1bdc88dbf08",
+                "reference": "a47899310e7ad3490b50d9cd7d64d1bdc88dbf08",
                 "shasum": ""
             },
             "require": {
                 "almasaeed2010/adminlte": "2.3.*",
-                "illuminate/support": "~5.1",
+                "creativeorange/gravatar": "~1.0",
                 "jenssegers/date": "^3.2",
-                "laravel/framework": "5.3.*|5.4.*|5.5.*",
+                "laravel/framework": "5.5.*",
                 "prologue/alerts": "^0.4.1"
             },
             "require-dev": {
                 "backpack/generators": "^1.1",
                 "laracasts/generators": "^1.1",
-                "phpunit/phpunit": "4.*",
+                "phpunit/phpunit": "~6.0",
                 "scrutinizer/ocular": "~1.1",
                 "squizlabs/php_codesniffer": "~2.3"
             },
@@ -108,35 +108,34 @@
                 "backpack",
                 "base"
             ],
-            "time": "2017-08-30T17:31:24+00:00"
+            "time": "2017-11-07T12:17:50+00:00"
         },
         {
             "name": "backpack/crud",
-            "version": "3.2.27",
+            "version": "3.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Laravel-Backpack/CRUD.git",
-                "reference": "54fb667a1cf64f4c53f8a90a3752d1f964fdec6f"
+                "reference": "b23f944a3dabc5ce573e9bab143019e376d9ee7a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Laravel-Backpack/CRUD/zipball/54fb667a1cf64f4c53f8a90a3752d1f964fdec6f",
-                "reference": "54fb667a1cf64f4c53f8a90a3752d1f964fdec6f",
+                "url": "https://api.github.com/repos/Laravel-Backpack/CRUD/zipball/b23f944a3dabc5ce573e9bab143019e376d9ee7a",
+                "reference": "b23f944a3dabc5ce573e9bab143019e376d9ee7a",
                 "shasum": ""
             },
             "require": {
-                "backpack/base": "^0.7.15",
+                "backpack/base": "^0.8.0",
                 "barryvdh/laravel-elfinder": "^0.3.10",
                 "doctrine/dbal": "^2.5",
                 "intervention/image": "^2.3",
                 "laravelcollective/html": "~5.0",
-                "livecontrol/eloquent-datatable": "^0.1.5",
                 "venturecraft/revisionable": "1.*"
             },
             "require-dev": {
                 "orchestra/database": "~3.4",
                 "orchestra/testbench": "~3.0",
-                "phpunit/phpunit": "4.*",
+                "phpunit/phpunit": "~6.0",
                 "scrutinizer/ocular": "~1.1"
             },
             "type": "library",
@@ -171,15 +170,17 @@
             "homepage": "https://github.com/laravel-backpack/CRUD",
             "keywords": [
                 "Admin Interface",
+                "Content management system",
                 "admin panel",
                 "cms",
+                "content management framework",
                 "create",
                 "crud",
                 "delete",
                 "read",
                 "update"
             ],
-            "time": "2017-11-06T11:41:53+00:00"
+            "time": "2017-11-06T12:22:20+00:00"
         },
         {
             "name": "backpack/langfilemanager",
@@ -574,20 +575,22 @@
         },
         {
             "name": "backpack/settings",
-            "version": "2.0.24",
+            "version": "2.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Laravel-Backpack/Settings.git",
-                "reference": "97f0b6626acd0a5b576ac228e8246b6ee311637d"
+                "reference": "9016b0fc8e4bdc0c3404447b29529764bb29e415"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Laravel-Backpack/Settings/zipball/97f0b6626acd0a5b576ac228e8246b6ee311637d",
-                "reference": "97f0b6626acd0a5b576ac228e8246b6ee311637d",
+                "url": "https://api.github.com/repos/Laravel-Backpack/Settings/zipball/9016b0fc8e4bdc0c3404447b29529764bb29e415",
+                "reference": "9016b0fc8e4bdc0c3404447b29529764bb29e415",
                 "shasum": ""
             },
             "require": {
-                "backpack/crud": "3.2.*"
+                "backpack/crud": "^3.0.6",
+                "illuminate/support": "~5.1",
+                "php": ">=5.3.0"
             },
             "require-dev": {
                 "phpunit/phpunit": "4.*",
@@ -597,11 +600,6 @@
             "extra": {
                 "branch-alias": {
                     "dev-master": "1.0-dev"
-                },
-                "laravel": {
-                    "providers": [
-                        "Backpack\\Settings\\SettingsServiceProvider"
-                    ]
                 }
             },
             "autoload": {
@@ -611,7 +609,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "proprietary"
+                "MIT"
             ],
             "authors": [
                 {
@@ -634,7 +632,7 @@
                 "tabacitu",
                 "updivision"
             ],
-            "time": "2017-11-14T07:37:26+00:00"
+            "time": "2016-08-05T11:51:08+00:00"
         },
         {
             "name": "barryvdh/elfinder-flysystem-driver",
@@ -808,6 +806,50 @@
                 "slugify"
             ],
             "time": "2017-09-24T10:29:04+00:00"
+        },
+        {
+            "name": "creativeorange/gravatar",
+            "version": "1.0.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/creativeorange/gravatar.git",
+                "reference": "a0e84f0c8e8922ad151168d6ebd8db6a1b2d8cd2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/creativeorange/gravatar/zipball/a0e84f0c8e8922ad151168d6ebd8db6a1b2d8cd2",
+                "reference": "a0e84f0c8e8922ad151168d6ebd8db6a1b2d8cd2",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "5.*",
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Creativeorange\\Gravatar\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jaco Tijssen",
+                    "email": "jaco@creativeorange.nl",
+                    "homepage": "https://www.creativeorange.nl",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A Laravel 5.0, 5.1, 5.2 and 5.3 gravatar package for retrieving gravatar image URLs or checking the existance of an image.",
+            "keywords": [
+                "avatar",
+                "gravatar",
+                "laravel"
+            ],
+            "time": "2017-02-15T22:07:40+00:00"
         },
         {
             "name": "cviebrock/eloquent-sluggable",
@@ -2207,7 +2249,7 @@
                 "issues": "https://github.com/LaravelCollective/html/issues",
                 "source": "https://github.com/LaravelCollective/html"
             },
-            "time": "2017-08-30T13:00:04+00:00"
+            "time": "2017-08-30 13:00:04"
         },
         {
             "name": "league/flysystem",
@@ -2339,51 +2381,6 @@
             ],
             "description": "An adapter decorator to enable meta-data caching.",
             "time": "2017-03-20T09:59:34+00:00"
-        },
-        {
-            "name": "livecontrol/eloquent-datatable",
-            "version": "0.1.5",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/LiveControl/EloquentDataTable.git",
-                "reference": "49488446f3116ebf725447bb805bb76c28109d1b"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/LiveControl/EloquentDataTable/zipball/49488446f3116ebf725447bb805bb76c28109d1b",
-                "reference": "49488446f3116ebf725447bb805bb76c28109d1b",
-                "shasum": ""
-            },
-            "require": {
-                "illuminate/database": "5.*",
-                "php": ">=5.4.0"
-            },
-            "require-dev": {
-                "phpspec/phpspec": "~2.1"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-0": {
-                    "LiveControl\\EloquentDataTable": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Jeffrey de Vreede",
-                    "email": "jeffrey@devreede.eu"
-                }
-            ],
-            "description": "Eloquent DataTable plugin for server side ajax call handling.",
-            "keywords": [
-                "datatable",
-                "eloquent",
-                "laravel"
-            ],
-            "time": "2015-09-15T11:39:39+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -4661,7 +4658,7 @@
                 "generators",
                 "laravel"
             ],
-            "time": "2017-11-15T07:23:53+00:00"
+            "time": "2017-11-15 07:23:53"
         },
         {
             "name": "mockery/mockery",

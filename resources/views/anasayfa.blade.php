@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>SiyahKare</title>
+    <title>Melek Arıcı Psikolojik Danışmanlık | İzmit - KOCAELİ</title>
 
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
@@ -36,23 +36,23 @@
 <div class="wrapper">
     <div class="parallax filter-black">
         <div class="parallax-image">
-            <img src="/assets/img/header.jpg" alt="SiyahKare" />
+            <img src="/assets/img/home1.jpg" alt="Melek Arıcı" />
         </div>
 
         <div class="small-info">
-            <div class="motto"><img src="/assets/img/logo.png" alt="SiyahKare" /></div>
-
+            <div class="motto"><img src="/assets/img/turkuaz-logo-trans.png" alt="Melek Arıcı" /></div>
         </div>
+
     </div>
 
     <div class="section section-description">
         <div class="container">
-            <h2 class="section-title">Dijital Dönüşüm</h2>
+            <h2 class="section-title">Psikolojik Danışmanlık</h2>
             <div class="row">
                 <div class="col-md-6">
-                    <h5>Bütünleşik Dijital Hizmetler</h5>
-                    <p>Ekibimiz 1995 yılından bu yana bilişim sektöründe etkin çalışan, iki yüzden fazla dijital projeye imza atmış her biri alanında uzman kişilerin SiyahKare markası altında toplanmasıyla oluşmuştur. Bütünleşik dijital hizmetler sunan SiyahKare, "müşterilerin ihtiyaçlarına cevap verecek optimum çözümler üretme" sloganıyla çalışmalarını sürdürmektedir. </p>
-                    <p>Biz SiyahKare olarak daima özgün fikirlere odaklanıyoruz. Kullanıcı dostu ve işlevsel yeni nesil uygulamalar geliştirirken, gelecekte yapılabileceklerin sınırlarını bugünden zorluyoruz.</p>
+                    <h5>Psikoterapi, Aile ve Oyun Terapisi</h5>
+                    <p><b>Melek Arıcı Psikolojik Danışmanlık Hizmetleri</b> Merkezi, yetişkin psikolojik danışmanlığından başlayan, aile, çift, çocuk, çocuklarla oyun terapisi, kariyer danışmanlığı, okul danışmanlığına kadar geniş bir yelpazede psikolojik danışmanlık hizmet vermektedir.</p>
+                    <p>Ayrıca bünyesinde barındırdığı Uluslararası eğitimler almış ve akredite eğitimleri tamamlamış koçlar ile liderlere, yöneticilere, öğrencilere bireysel koçluk hizmeti vererek onların potansiyellerini üst seviyede kullanarak güçlü ve etkileyici performans artışı sağlanmasına katkı sağlamaktadır.</p>
 
 
                 </div>
@@ -91,9 +91,8 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <h5>Yaratıcı Çözümler</h5>
-                    <p>Proje İhtiyaçlarına Uygun E-Ticaret paketi , Özel Çözüm Web Siteleri, Online Uygulamalar, Kurumsal ve Profesyonel Sosyal Platform Hizmetleri, Kurumsal Sosyal Medya Danışmanlığı ile Tüm Digital Çözümlerin Projelendirilmesi ve Uygulamaları konusunda uzman kadrosuyla bütünleşik interaktif dijital hizmetler sunmaktadır.</p>
-                    </p>Bir şirket, hangi sektörde faaliyet gösterirse göstersin, dijital işletmeye dönüşmek durumundadır.</p>
+                    <h5>Anne Baba Okulu</h5>
+                    <p>Kuşak çatışmasının 5 yıla indiği, olumlu-olumsuz her tür uyarana rahatlıkla ulaşılabilen, yoğun çalışma temposu içinde çocuklarımızla yeterince iletişim kuramadığımız günümüz koşullarında, çocuklarımızla daha sağlıklı iletişim kurabilmek, onların duygusal, fiziksel ve zihinsel ihtiyaçlarını doğru tespit edebilmek, yerinde ve zamanında gerekli müdahaleyi yapabilmek için sizleri bu eğitime davet ediyoruz. Anne-baba olarak birçok şeyi çocuklarımızla öğreniyor, onlarla beraber büyüyoruz ve önümüzde ki tek model kendi anne babamız oluyor.</p>
 
                 </div>
             </div>
@@ -104,202 +103,6 @@
     <hr>
     <div class="space-50"></div>
 
-
-    <div class="section section-features-2">
-        <div class="container">
-            <h2 class="section-title">Özellikler <small>neden farklıyız</small></h2>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="info">
-                        <div class="icon icon-azure">
-                            <i class="pe-7s-clock"></i>
-                        </div>
-                        <div class="description">
-                            <h5> Zaman Kazanın </h5>
-                            <p class="text-muted">Zamanınızı ve enerjinizi yeni fikirlere odaklanmak için kullanın, uygulamalarını bize bırakın.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="info">
-                        <div class="icon icon-orange">
-                            <i class="pe-7s-scissors"></i>
-                        </div>
-                        <div class="description">
-                            <h5> Size Özel Çözüm </h5>
-                            <p class="text-muted">Özgün ve yaratıcı fikirlerinizi hayata geçirmek üzere size özel çözümleri biz üretelim.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="info">
-                        <div class="icon icon-purple">
-                            <i class="pe-7s-science"></i>
-                        </div>
-                        <div class="description">
-                            <h5> Özgün Yaratıcı Fikirler </h5>
-                            <p class="text-muted">Gelişen teknolojinin bize sağladığı tüm imkanları kullanarak modern uygulamaları hayata geçirelim.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div><!-- section -->
-
-    <div class="section section-gray">
-        <div class="container">
-            <div class="big-info">
-                <h3 class="text-center">Ücretsiz deneyin. Dilediğinizde iptal edin. <br>
-                    <small>Bütün paketler için 7 gün ücretsiz deneme süresi.</small>
-                </h3>
-            </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="card card-price">
-                        <div class="content">
-                            <h6 class="category">Temel</h6>
-                            <h1 class="price">
-                                <small>&#8378;</small>199
-                            </h1>
-                            <ul class="list-unstyled list-lines">
-                                <li>
-                                    <i class="fa fa-comments"></i> <b>200</b> Destek Mesajı
-                                </li>
-                                <li>
-                                    <i class="fa fa-magic"></i> <b>10+</b> Modül
-                                </li>
-                                <li>
-                                    <i class="fa fa-male"></i> <b>20</b> Kullanıcı
-                                </li>
-                                <li>
-                                    <i class="fa fa-level-up"></i> <b>Ücretsiz</b> Güncellemeler
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="footer">
-                            <button type="button" class="btn btn-info btn-round btn-block">Satın Al!</button>
-                        </div>
-                    </div> <!-- end card -->
-                </div>
-                <div class="col-md-4">
-                    <div class="card card-price card-price-best-deal">
-                        <div class="content">
-                            <h6 class="category">Premium</h6>
-                            <h1 class="price">
-                                <small>&#8378;</small>399
-                            </h1>
-                            <ul class="list-unstyled list-lines">
-                                <li>
-                                    <i class="fa fa-comments"></i> <b>Sınırsız</b> Mesaj
-                                </li>
-                                <li>
-                                    <i class="fa fa-magic"></i> <b>Sınırsız</b> Modül
-                                </li>
-                                <li>
-                                    <i class="fa fa-male"></i> <b>Sınırsız</b> Kullanıcı
-                                </li>
-                                <li>
-                                    <i class="fa fa-dollar"></i> <b>En İyi</b> Fiyat
-                                </li>
-                                <li>
-                                    <i class="fa fa-level-up"></i> <b>Ücretsiz</b> Güncellemeler
-                                </li>
-                                <li>
-                                    <i class="fa fa-phone"></i> <b>Premium</b> Öncelikli Destek
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="footer">
-                            <button type="button" class="btn btn-info btn-round btn-fill btn-block">Satın Al!</button>
-                        </div>
-                    </div> <!-- end card -->
-                </div>
-                <div class="col-md-4">
-                    <div class="card card-price">
-                        <div class="content">
-                            <h6 class="category">Standard</h6>
-                            <h1 class="price">
-                                <small>&#8378;</small>299
-                            </h1>
-                            <ul class="list-unstyled list-lines">
-                                <li>
-                                    <i class="fa fa-comments"></i> <b>500</b> Destek Mesajı
-                                </li>
-                                <li>
-                                    <i class="fa fa-magic"></i> <b>50+</b> Modül
-                                </li>
-                                <li>
-                                    <i class="fa fa-male"></i> <b>100</b> Kullanıcı
-                                </li>
-                                <li>
-                                    <i class="fa fa-level-up"></i> <b>Ücretsiz</b> Güncellemeler
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="footer">
-                            <button type="button" class="btn btn-info btn-round btn-block">Satın Al!</button>
-                        </div>
-                    </div> <!-- end card -->
-                </div>
-            </div> <!-- end row -->
-        </div>
-    </div>
-
-
-    <div class="section">
-        <div class="container">
-            <h2 class="section-title">Çalışma İş Akışımız</h2>
-            <div class="clients-presentation">
-                <div class="row">
-                    <div class="col-md-3">
-                        <div class="info">
-                            <div class="icon">
-                                <i class="pe-7s-note2"></i>
-                            </div>
-                            <div class="description">
-                                <h3> 1. Araştırma </h3>
-                                <p class="text-muted">Projelerinize katma değer kazandırabilecek en güncel telnolojilerin araştırılması</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="info">
-                            <div class="icon">
-                                <i class="pe-7s-scissors"></i>
-                            </div>
-                            <div class="description">
-                                <h3> 2. Tasarım </h3>
-                                <p class="text-muted">Özgün fikirlerinizi güncel teknolojilerle buluşturacak projenin tasarlanması</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="info">
-                            <div class="icon">
-                                <i class="pe-7s-tools"></i>
-                            </div>
-                            <div class="description">
-                                <h3> 3. Geliştirme </h3>
-                                <p class="text-muted">Projenizi hayata geçirecek geliştirmelerin yapılarak projenin tamamlanması</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="info">
-                            <div class="icon">
-                                <i class="pe-7s-upload"></i>
-                            </div>
-                            <div class="description">
-                                <h3> 4. Yayınlama </h3>
-                                <p class="text-muted">Tamamlanan projenin bulut sunucular üzerinde güvenli olarak yayınlanması</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> <!-- end section meet our clients -->
-
     <div class="section">
         <div class="container">
             <h2 class="section-title">Projelerimiz</h2>
@@ -307,7 +110,7 @@
                 <div class="col-md-4">
                     <div class="card card-plain">
                         <div class="image">
-                            <img src="/assets/img/thumb.jpg" alt="..."/>
+                            <img src="/assets/img/proje1.jpg" alt="..."/>
                             <div class="filter">
                                 <button type="button" class="btn btn-neutral btn-simple">
                                     <i class="fa fa-image"></i> View Image
@@ -319,7 +122,7 @@
                 <div class="col-md-8">
                     <div class="card card-plain">
                         <div class="image">
-                            <img src="/assets/img/thumb.jpg" alt="..."/>
+                            <img src="/assets/img/proje2.jpg" alt="..."/>
                             <div class="filter">
                                 <button type="button" class="btn btn-neutral btn-simple">
                                     <i class="fa fa-image"></i> View Image
@@ -331,7 +134,7 @@
                 <div class="col-md-8">
                     <div class="card card-plain">
                         <div class="image">
-                            <img src="/assets/img/thumb.jpg" alt="..."/>
+                            <img src="/assets/img/proje3.jpg" alt="..."/>
                             <div class="filter">
                                 <button type="button" class="btn btn-neutral btn-simple">
                                     <i class="fa fa-image"></i> View Image
@@ -344,7 +147,7 @@
                 <div class="col-md-4">
                     <div class="card card-plain">
                         <div class="image">
-                            <img src="/assets/img/thumb.jpg" alt="..."/>
+                            <img src="/assets/img/proje4.jpg" alt="..."/>
                             <div class="filter">
                                 <button type="button" class="btn btn-neutral btn-simple">
                                     <i class="fa fa-image"></i> View Image
@@ -357,7 +160,7 @@
                 <div class="col-md-4">
                     <div class="card card-plain">
                         <div class="image">
-                            <img src="/assets/img/thumb.jpg" alt="..."/>
+                            <img src="/assets/img/proje5.jpg" alt="..."/>
                             <div class="filter">
                                 <button type="button" class="btn btn-neutral btn-simple">
                                     <i class="fa fa-image"></i> View Image
@@ -369,7 +172,7 @@
                 <div class="col-md-4">
                     <div class="card card-plain">
                         <div class="image">
-                            <img src="/assets/img/thumb.jpg" alt="..."/>
+                            <img src="/assets/img/proje6.jpg" alt="..."/>
                             <div class="filter">
                                 <button type="button" class="btn btn-neutral btn-simple">
                                     <i class="fa fa-image"></i> View Image
@@ -381,7 +184,7 @@
                 <div class="col-md-4">
                     <div class="card card-plain">
                         <div class="image">
-                            <img src="/assets/img/thumb.jpg" alt="..."/>
+                            <img src="/assets/img/proje7.jpg" alt="..."/>
                             <div class="filter">
                                 <button type="button" class="btn btn-neutral btn-simple">
                                     <i class="fa fa-image"></i> View Image
@@ -392,56 +195,6 @@
                 </div>
 
 
-            </div>
-        </div>
-    </div> <!-- end section meet our clients -->
-
-    <div class="section section-gray section-clients">
-        <div class="container">
-            <h2 class="section-title">Çalışma Alanlarımız</h2>
-            <div class="clients-presentation">
-                <div class="row">
-                    <div class="col-md-3">
-                        <div class="info">
-                            <div class="icon">
-                                <i class="fa fa-cloud"></i>
-                            </div>
-                            <div class="description">
-                                <h3> Bulut Mimarisi </h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="info">
-                            <div class="icon">
-                                <i class="fa fa-shopping-cart"></i>
-                            </div>
-                            <div class="description">
-                                <h3> E-Ticaret </h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="info">
-                            <div class="icon">
-                                <i class="fa fa-tachometer"></i>
-                            </div>
-                            <div class="description">
-                                <h3> Sistem Paneli </h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="info">
-                            <div class="icon">
-                                <i class="fa fa-cogs"></i>
-                            </div>
-                            <div class="description">
-                                <h3> Yönetim Otomasyonu </h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div> <!-- end section meet our clients -->
@@ -466,7 +219,7 @@
                 </div>
                 <div class="col-md-3">
                     <a href="" class="btn btn-round btn-fill btn-social btn-pinterest">
-                        <i class="fa fa-pinterest"></i> Pinterest
+                        <i class="fa fa-instagram"></i> Instagram
                     </a>
                 </div>
             </div>
@@ -478,23 +231,23 @@
             <h3 class="section-title">Sıkça Sorulan Sorular</h3>
             <div class="row">
                 <div class="col-md-6">
-                    <h5>Projelerimizde hangi teknolojileri kullanıyorsunuz?</h5>
-                    Projelerimizde Laravel5 PHP Kullanıyoruz..
+                    <h5>Seansların Süreleri ve Görüşme Periyodu</h5>
+                    Seanslar danışma alanına göre 60 – 90  dakika sürer. Haftada bir  seans yapılır. Danışmanlık konusunun aciliyetine ve durumuna göre haftalık seans sayısının arttırılması önerilir. Danışmanlık sürecinde belirlenen amaçlara ulaşılmaya başlandıkça seans sıklığı 15 günde bire, ayda bire indirilebilir. Sürekliliği olan danışmanlık görüşmelerinde paket görüşme uygulamaları tercih edilmektedir.
 
                 </div>
                 <div class="col-md-6">
-                    <h5>Projelerimizi ne kadar zamanda tamamlıyorsunuz?</h5>
-                    Projelerimizi taahhüt ettiğimiz sürede tamamnlıyoruz.
+                    <h5>İlk Psikolojik Danışmanlık Görüşmesi  (Değerlendirme Görüşmesi)</h5>
+                    İlk seans değerlendirme görüşmesidir ve ücretsizdir. Görüşme 20 dakika ile sınırlıdır. Bu seansta danışanın yaşadığı sorunun ne olduğu, sorunun kaynakları, psikiyatrik ve medikal durumlar ve Psikolojik Danışmanlığa uygunluk değerlendirilir, olası danışmanlık planı oluşturulmaya çalışılır. Çocuk ile çalışma yapılacaksa aileye bilgi verilir. Genç ile görüşme yapıldıysa gencin onayı alındıktan sonra ilk görüşme ile ilgili bilgi aileye verilir. Bazı durumlarda danışanların uygun başka bir uzmanlığa ( Psikiyatriste, nöroloji uzmanına, fizyoterapiste vb.) yönlendirilmesi gerekebilir.
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6">
-                    <h5>Projemizi hayata geçirmek için nasıl çalışabiliriz?</h5>
-                    Sözleşme ile çalışabiliriz.
+                    <h5>Randevu erteleme veya Randevuyu iptal etme</h5>
+                    Randevu verilmiş bir seansı ertelemek veya iptal etmek için bize en geç bir gün öncesinden haber verilmesi çok önemlidir. Bu sayede sırada bekleyen danışanlarımıza o saate randevu verebiliriz. Randevunuza geç kaldığınız durumda, diğer danışanlarımızın randevuları aksatmamak için size ayrılan süreyi uzatmamız mümkün değildir.
                 </div>
                 <div class="col-md-6">
-                    <h5>Projelerimize destek sözleşmenizin süresi ve şartları nelerdir?</h5>
-                    Projelerimize destek süremiz 1 yıldır.
+                    <h5>Sonuç alınamazsa ne yapılır?</h5>
+                    Bazı durumlarda danışanların uygun başka bir uzmanlığa ( Psikiyatriste, nöroloji uzmanına, fizyoterapiste vb.) yönlendirilmesi gerekebilir.
 
                 </div>
             </div>
@@ -526,50 +279,45 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-2">
-                    <div class="form-group">
-                        <select name="huge" class="selectpicker" data-style="btn-default btn-block" data-menu-style="dropdown-blue">
-                            <option value="de">Deutsch</option>
-                            <option value="en">English</option>
-                            <option value="es">Español</option>
-                            <option value="fr">Français</option>
-                            <option value="it">Italiano</option>
-                            <option value="tr" selected="">Türkçe</option>
-                            <option value="ru">Русский</option>
-                        </select>
-                    </div>
-                    <div class="form-group">
-                        <select name="huge" class="selectpicker" data-style="btn-default btn-block" data-menu-style="dropdown-blue">
-                            <option value="EUR">EUR</option>
-                            <option value="GBP">GBP</option>
-                            <option value="RUB">RUB</option>
-                            <option value="TRL" selected="">TRL</option>
-                            <option value="USD">USD</option>
+                    <h5 class="title">İLETİŞİM</h5>
+                    <nav>
+                        <ul>
+                            <li>
+                                Körfez Mh. Berk Sk. <br />
+                                Dolphin İş Merkezi <br />
+                                No:1 Kat:5 No:519 <br />
+                                İzmit / KOCAELİ
+                            </li>
+                            <li>
+                                0505 118 52 51
+                            </li>
+                        </ul>
+                    </nav>
 
-                        </select>
-                    </div>
+
                 </div>
                 <div class="col-md-2 col-md-offset-1">
-                    <h5 class="title">SiyahKare</h5>
+                    <h5 class="title">Melek Arıcı</h5>
                     <nav>
                         <ul>
                             <li>
                                 <a href="#" >
-                                    Hakkımızda
+                                    Hakkında
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    Projeler
+                                    Eğitimler
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    Ürünler
+                                    Danışmanlık
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    Hizmetler
+                                    Koçluk
                                 </a>
                             </li>
                             <li>
@@ -591,12 +339,12 @@
                             </li>
                             <li>
                                 <a href="#">
-                                    Kullanıcı Girişi
+                                    SERTİFİKA DOĞRULAMA
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    Alışveriş Sepeti
+                                    Kullanım Esasları
                                 </a>
                             </li>
                             <li>
@@ -649,14 +397,14 @@
                     <i class="fa fa-google-plus"></i>
                 </a>
                 <a href="#" class="btn btn-social btn-round">
-                    <i class="fa fa-pinterest"></i>
+                    <i class="fa fa-instagram"></i>
                 </a>
                 <a href="#" class="btn btn-social btn-round">
                     <i class="fa fa-linkedin"></i>
                 </a>
             </div>
             <div class="copyright">
-                1999 &copy; 2017 SiyahKare
+                2017 - 2018 &copy; SiyahKare
             </div>
         </div>
     </footer>
@@ -708,14 +456,4 @@
     };
 
 </script>
-
-<!-- If you are using TypeKit.com uncomment this code otherwise you can delete it -->
-<!--
-<script src="https://use.typekit.net/[your kit code here].js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
--->
-
-<!-- If you have retina @2x images on your server which can be sent to iPhone/iPad/MacRetina, please uncomment the next line, otherwise you can delete it -->
-<!-- <script src="assets/js/retina.min.js"></script> -->
-
 </html>

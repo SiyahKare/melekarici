@@ -8,7 +8,7 @@
                 <span class="icon-bar bar2"></span>
                 <span class="icon-bar bar3"></span>
             </button>
-            <a class="navbar-brand" href="/anasayfa">Melek Arıcı</a>
+            <a class="navbar-brand" href="/anasayfa">Melek ARICI</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->

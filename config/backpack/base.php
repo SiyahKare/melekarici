@@ -15,8 +15,8 @@ return [
     'project_name' => 'SiyahKare',
 
     // Menu logos
-    'logo_lg'   => '<b>SiyahKare</b>',
-    'logo_mini' => '<b>SK</b>',
+    'logo_lg'   => '<i class="fa fa-cube"></i> <b>SiyahKare</b>',
+    'logo_mini' => '<i class="fa fa-cube"></i>',
 
     // Developer or company name. Shown in footer.
     'developer_name' => 'SiyahKare',

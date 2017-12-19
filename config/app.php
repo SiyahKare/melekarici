@@ -167,6 +167,8 @@ return [
         /*
          * Package Service Providers...
          */
+        Backpack\Base\BaseServiceProvider::class,
+        Backpack\CRUD\CrudServiceProvider::class,
         Backpack\PermissionManager\PermissionManagerServiceProvider::class,
         Backpack\MenuCRUD\MenuCRUDServiceProvider::class,
         Backpack\NewsCRUD\NewsCRUDServiceProvider::class,
@@ -230,6 +232,7 @@ return [
         'URL' => Illuminate\Support\Facades\URL::class,
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
+        'CRUD' => Backpack\CRUD\CrudServiceProvider::class,
 
     ],
 

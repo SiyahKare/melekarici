@@ -1,8 +1,9 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use Backpack\MenuCRUD\app\Models\MenuItem;
 use Illuminate\Http\Request;
+use App\Http\Requests;
 
 class HomeController extends Controller
 {
@@ -13,7 +14,7 @@ class HomeController extends Controller
      */
     public function __construct()
     {
-        $this->middleware('auth');
+        // $this->middleware('auth');
     }
 
     /**
@@ -23,6 +24,8 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('home');
+        // $this->data['menu_items'] = MenuItem::getTree();
+        // return view('front.anasayfa', $this->data);
+        return view('front.anasayfa');
     }
 }

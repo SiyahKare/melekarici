@@ -118,5 +118,5 @@ return [
         'table_max_reached' => 'Maximum number of :max reached',
 
     // File manager
-    'file_manager' => 'File Manager',
+    'file_manager' => 'Dosya Yöneticisi',
 ];

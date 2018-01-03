@@ -52,9 +52,16 @@ trait PageTemplates
                         'value' => '<br><h2>'.trans('backpack::pagemanager.content').'</h2><hr>',
                     ]);
         $this->crud->addField([
+                        'name' => 'image',
+                        'label' => trans('backpack::pagemanager.image'),
+                        'type' => 'browse',
+                        'fake' => true,
+                        'store_in' => 'extras',
+        ]);
+        $this->crud->addField([
                         'name' => 'content',
                         'label' => trans('backpack::pagemanager.content'),
-                        'type' => 'wysiwyg',
+                        'type' => 'summernote',
                         'placeholder' => trans('backpack::pagemanager.content_placeholder'),
                     ]);
     }
@@ -64,7 +71,7 @@ trait PageTemplates
         $this->crud->addField([
                         'name' => 'content',
                         'label' => trans('backpack::pagemanager.content'),
-                        'type' => 'wysiwyg',
+                        'type' => 'ckeditor',
                         'placeholder' => trans('backpack::pagemanager.content_placeholder'),
                     ]);
     }

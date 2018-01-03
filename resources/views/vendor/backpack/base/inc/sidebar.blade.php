@@ -33,21 +33,29 @@
           <!-- ================================================ -->
           <!-- ==== Recommended place for admin menu items ==== -->
           <!-- ================================================ -->
-            <li><a href="{{ backpack_url('dashboard') }}"><i class="fa fa-dashboard"></i> <span>{{ trans('backpack::base.dashboard') }}</span></a></li>
 
+          @can('dashboard')
+            <li><a href="{{ backpack_url('dashboard') }}"><i class="fa fa-dashboard"></i> <span>{{ trans('backpack::base.dashboard') }}</span></a></li>
+          @endcan
 
 
           <li class="treeview">
             <a href="#"><i class="fa fa-cog"></i> <span>İçerikler</span> <i class="fa fa-angle-left pull-right"></i></a>
             <ul class="treeview-menu">
+
+              @can('file-manager')
               <li><a href="{{ url(config('backpack.base.route_prefix', 'admin') . '/elfinder') }}"><i class="fa fa-files-o"></i> <span>Dosya Yöneticisi</span></a></li>
+              @endcan
+
               <li><a href="{{ url(config('backpack.base.route_prefix', 'admin').'/page') }}"><i class="fa fa-file-o"></i> <span>Sayfalar</span></a></li>
+
               <li><a href="{{ url('admin/menu-item') }}"><i class="fa fa-list"></i> <span>Menü Yönetimi</span></a></li>
+
             </ul>
           </li>
 
           <li class="treeview">
-            <a href="#"><i class="fa fa-newspaper-o"></i> <span>Makaleler</span> <i class="fa fa-angle-left pull-right"></i></a>
+            <a href="#"><i class="fa fa-newspaper-o"></i> <span>BLOG</span> <i class="fa fa-angle-left pull-right"></i></a>
             <ul class="treeview-menu">
               <li><a href="{{ url('admin/article') }}"><i class="fa fa-newspaper-o"></i> <span>Makaleler</span></a></li>
               <li><a href="{{ url('admin/category') }}"><i class="fa fa-list"></i> <span>Kategoriler</span></a></li>
@@ -91,7 +99,7 @@
 
           <!-- ================== BugReport ===================== -->
           <li class="treeview">
-            <a href="#"><i class="fa fa-bug"></i> <span>BUG Raporlama</span> <i class="fa fa-angle-left pull-right"></i></a>
+            <a href="#"><i class="fa fa-bug"></i> <span>BUG Yönetimi</span> <i class="fa fa-angle-left pull-right"></i></a>
             <ul class="treeview-menu">
               <li><a href="{{ url(config('backpack.base.route_prefix', 'admin') . '/issue') }}"><i class="fa fa-globe"></i> <span>BUG Raporla</span></a></li>
               <li><a href="{{ url(config('backpack.base.route_prefix', 'admin') . '/issuetype') }}"><i class="fa fa-language"></i> <span>BUG Türü</span></a></li>

@@ -94,7 +94,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <h5>Çocuklarla Oyun Psikoterapisi</h5>
+                    <h5>ÇOCUKLARLA OYUN TERAPİSİ</h5>
                     <p>Çocuğun kendini ifade etmesi, kuralları kendi deneyimleri ile öğrenme yöntemi, hayal ile gerçek arasında bir köprü, çocuğun iç dünyasının dışa vurumu, gizil enerjinin kullanılması. Çocuğun sosyal ve ahlaki değerleri öğrendiği bir alandır. Çocuğun zeka, beden ve kişilik gelişimini sağlayan en ideal ortamdır, Çocuğun sosyalleşmesine aracıdır, Çocuğun uyum sağlamasına yardımcıdır, yenilik ve değişiklik arzusuna verile bir cevaptır, Oyun genel anlamda kişiliğini bütünüyle etkileyen bir faaliyettir. <a href="/cocuk-genc-psikolojik-danismanlik-cocuklarla-oyun-terapisi">Devamı için tıklayınız...</a></p>
 
                 </div>
@@ -106,7 +106,7 @@
 
             <div class="row">
                 <div class="col-md-6">
-                    <h5>Aile Psikoterapisi</h5>
+                    <h5>AİLE DANIŞMANLIĞI / PSİKOTERAPİ</h5>
                     <p>Aile yaşam döngüsünde karşılaşılan krizler, ailede ölüm ve hastalık gibi travmalar, boşanma, ergen sorunları, aile içi iletişim ve roller, aile sınırları ve bireysel sınır sorunları, çocukların okul sorunları, küçük çocuklu ailelerde anne baba tutumları, ailede yaşanan ölüm, kaza, iflas gibi konularda da aile danışmanlığı almak önemlidir. <a href="/psikolojik-danismanliklar-aile-danismanligi">Devamı için tıklayınız...</a> </p>
 
                 </div>
@@ -132,8 +132,8 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <h5>Çocuk - Ergen Psikoterapisi</h5>
-                    <p>Çocuk ve genç danışmanlığı çocuk ve gençlerin sahip olduğu yetenekleri, becerileri, ilgileri ortaya çıkmasını sağlamaktır. Ayrıca İlkokul, ortaokul ve lise yıllarında gelişime bağlı olarak ortaya çıkan sorunları bireyin nasıl çözebileceği konusunda farkındalık yaratmak bu danışmanlık sürecinin temel hedefidir. Danışmanlık süreci gizlilik ilkelerine bağlı olarak yürütülür. <a href="/cocuk-genc-psikolojik-danismanlik-cocuk-genc-bireysel">Devamı için tıklayınız...</a> </p>
+                    <h5>ÇOCUK - ERGEN PSİKOTERAPİSİ</h5>
+                    <p>Çocuk ve ergen danışmanlığı, çocuk ve gençlerin sahip oldukları yetenek, ilgi ve becerilerinin ortaya çıkmasını, farkındalık geliştirmelerini sağlar. Ayrıca İlkokul, ortaokul ve lise yıllarında gelişime bağlı olarak ortaya çıkan sorunları bireyin nasıl çözebileceği konusunda farkındalık yaratmak bu danışmanlık sürecinin temel hedefidir. Danışmanlık süreci gizlilik ilkelerine bağlı olarak yürütülür. <a href="/cocuk-genc-psikolojik-danismanlik-cocuk-genc-bireysel">Devamı için tıklayınız...</a> </p>
 
                 </div>
             </div>
@@ -144,7 +144,7 @@
 
             <div class="row">
                 <div class="col-md-6">
-                    <h5>Çift Psikoterapisi</h5>
+                    <h5>ÇİFT PSİKOTERAPİSİ</h5>
                     <p>Evli olan ya da olmayan çiftlerin karşılaştıkları sorunları ele alıp çözüme kavuşturmayı hedef alan bir danışmanlıktır. Bu danışmanlık, uzun süredir bir arada yaşayan çiftlerin veya evliliğe hazırlanan kişilerin ilişki içinde birbirlerinden beklentileri, çözülemeyen sorunlarda iletişim kurmayı sağlama, ilişkilerdeki çatışmaları doğru yönetme konuları ele alınır. Çift danışmanlığında önemli olan bireylerin tek tek kendileri değil, birbirleri ile olan ilişkileridir. <a href="/psikolojik-danismanliklar-cift-danismanligi">Devamı için tıklayınız...</a></p>
 
                 </div>
@@ -170,7 +170,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <h5>Bireysel Yetişkin Psikoterapisi</h5>
+                    <h5>BİREYSEL YETİŞKİN PSİKOTERAPİSİ</h5>
                     <p>Yetişkinler için bireysel danışmanlıkta, danışan, danışmanın kendisiyle yüz yüze bir sürece girer. Bireysel danışmanlık, kişinin gündelik yaşantısında yaşadığı zorluklarla ve problemlerle başa çıkmasını sağlamak için yapılan çalışmadır. Bu süreç, danışan ve danışmanın birlikte aşabileceği engel ve problemler için tercih edilen yöntemlerden biridir.  <a href="/psikolojik-danismanliklar-yetiskinler-icin-bireysel-psikolojik-danismanlik">Devamı için tıklayınız...</a></p>
 
                 </div>
@@ -182,7 +182,7 @@
 
             <div class="row">
                 <div class="col-md-6">
-                    <h5>Anne Baba Okulu</h5>
+                    <h5>ANNE BABA OKULU</h5>
                     <p>Kuşak çatışmasının 5 yıla indiği, olumlu-olumsuz her tür uyarana rahatlıkla ulaşılabilen, yoğun çalışma temposu içinde çocuklarımızla yeterince iletişim kuramadığımız günümüz koşullarında, çocuklarımızla daha sağlıklı iletişim kurabilmek, onların duygusal, fiziksel ve zihinsel ihtiyaçlarını doğru tespit edebilmek, yerinde ve zamanında gerekli müdahaleyi yapabilmek için sizleri bu eğitime davet ediyoruz. <a href="/egitimlerimiz-aile-egitimleri-anne-baba-okulu">Devamı için tıklayınız...</a></p>
 
                 </div>
@@ -206,7 +206,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <h5>Uyguladığımız Test ve Teknikler</h5>
+                    <h5>UYGULADIĞIMIZ TEST VE TEKNİKLER</h5>
                     <p>MOXO Performans Testi,
                         WÇZÖ-IV- Weschler Çocuklar için Zeka Testi,
                         Çocuk Rorschach Testi,

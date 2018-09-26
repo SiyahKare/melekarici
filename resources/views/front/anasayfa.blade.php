@@ -333,22 +333,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="" class="btn btn-round btn-fill btn-social btn-facebook">
+                    <a href="https://www.facebook.com/hmelekarici" class="btn btn-round btn-fill btn-social btn-facebook">
                         <i class="fa fa-facebook-square"></i> Facebook
                     </a>
                 </div>
+
                 <div class="col-md-3">
-                    <a href="" class="btn btn-round btn-fill btn-social btn-twitter">
-                        <i class="fa fa-twitter"></i> Twitter
-                    </a>
-                </div>
-                <div class="col-md-3">
-                    <a href="" class="btn btn-round btn-fill btn-social btn-google">
-                        <i class="fa fa-google-plus-square"></i> Google+
-                    </a>
-                </div>
-                <div class="col-md-3">
-                    <a href="" class="btn btn-round btn-fill btn-social btn-pinterest">
+                    <a href="https://www.instagram.com/hmelekarici/" class="btn btn-round btn-fill btn-social btn-pinterest">
                         <i class="fa fa-instagram"></i> Instagram
                     </a>
                 </div>
@@ -500,12 +491,7 @@
                                     <hr class="hr-small">
                                 </a>
                             </li>
-                            <li>
-                                <a href="#" >
-                                    <i class="fa fa-twitter"></i>
-                                    Otomasyonumuzu hayata geçirdik <b> MUTLU Danışmanlık</b>! Katkılarına teşekkür ederiz...
-                                </a>
-                            </li>
+
 
                         </ul>
                     </nav>
@@ -515,21 +501,15 @@
             <hr />
             <div class="social-area text-center">
                 <h5>Bize katılın</h5>
-                <a href="#" class="btn btn-social btn-round">
+
+                <a href="https://www.facebook.com/hmelekarici" class="btn btn-social btn-round">
                     <i class="fa fa-facebook"></i>
                 </a>
-                <a href="#"  class="btn btn-social btn-round">
-                    <i class="fa fa-twitter"></i>
-                </a>
-                <a href="#" class="btn btn-social btn-round">
-                    <i class="fa fa-google-plus"></i>
-                </a>
-                <a href="#" class="btn btn-social btn-round">
+
+                <a href="https://www.instagram.com/hmelekarici/" class="btn btn-social btn-round">
                     <i class="fa fa-instagram"></i>
                 </a>
-                <a href="#" class="btn btn-social btn-round">
-                    <i class="fa fa-linkedin"></i>
-                </a>
+
             </div>
             <div class="copyright">
                 2017 - 2018 &copy; SiyahKare

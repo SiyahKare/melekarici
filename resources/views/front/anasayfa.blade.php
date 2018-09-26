@@ -332,13 +332,13 @@
     <div class="social-line">
         <div class="container">
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-6">
                     <a href="https://www.facebook.com/hmelekarici" class="btn btn-round btn-fill btn-social btn-facebook">
                         <i class="fa fa-facebook-square"></i> Facebook
                     </a>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-6">
                     <a href="https://www.instagram.com/hmelekarici/" class="btn btn-round btn-fill btn-social btn-pinterest">
                         <i class="fa fa-instagram"></i> Instagram
                     </a>

@@ -420,28 +420,23 @@
                     <nav>
                         <ul>
                             <li>
-                                <a href="#" >
+                                <a href="https://melekarici.com/hakkinda-kurulus-oykumuz" >
                                     Hakkında
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="https://melekarici.com/egitimlerimiz-aile-egitimleri-eyvah-bebek-geliyor">
                                     Eğitimler
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="https://melekarici.com/kurumsal-danismanliklar-kurum-kulturu-olusturulmasi">
                                     Danışmanlık
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="https://melekarici.com/profesyonel-kocluk-mentorluk-hizmetleri-yonetici-koclugu">
                                     Koçluk
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    BLOG
                                 </a>
                             </li>
                         </ul>

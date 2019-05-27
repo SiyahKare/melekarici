@@ -14,9 +14,10 @@
 Route::get('/', 'HomeController@index')->name('home');
 Route::get('/home', 'HomeController@index')->name('home');
 
-Route::get('/anasayfa', function () {
-    return view('front.anasayfa');
-});
+Route::get('/anasayfa', function () { return view('front.anasayfa'); });
+Route::get('/mammafest', function () { return view('front.mammafest'); });
+Route::get('/moxo-turkiye', function () { return view('front.moxo'); });
+
 
 Route::group([
     'prefix' => config('backpack.base.route_prefix', 'admin'),

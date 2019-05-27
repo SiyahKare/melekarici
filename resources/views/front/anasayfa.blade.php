@@ -81,6 +81,58 @@
                 </div>
             </div>
 
+
+
+
+            <div class="space-50"></div>
+            <hr>
+            <div class="space-50"></div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="img-container">
+                        <a href="/mammafest">
+                            <img src="/assets/image/mammafest.png" alt="Türkiye’nin ilk online annelik festivali" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <h5>Türkiye’nin ilk online annelik festivali</h5>
+                    <p>- Anneler, sizler için yüzde 100 online olan bir annelik festivali başlıyor. 5 gün sürecek MAMMA FEST’TE alanında uzman isimler hamilelik, emzirme ve anne-çocuk arasındak ilişki konusunda canlı yayınlar yapacak, merak edilen soruları yanıtlayacak⁉
+                        <a href="/mammafest">Devamı için tıklayınız...</a>
+                    </p>
+
+                </div>
+            </div>
+
+
+
+
+
+            <div class="space-50"></div>
+            <hr>
+            <div class="space-50"></div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>MOXO Türkiye</h5>
+                    <p>MOXO, Dikkat, Zamanlama, Dürtüsellik ve Hiperaktivite performans düzeylerinin ölçümünde oldukça etkili bulunmuştur; fakat testin hızla artmış olan popülaritesi, MOXO’da bulunan eşsiz Çeldirici Sistemi’nden kaynaklanmaktadır.
+                        <a href="/moxo-turkiye">Devamı için tıklayınız...</a> </p>
+
+                </div>
+                <div class="col-md-6">
+                    <div class="img-container">
+                        <a href="/moxo-turkiye">
+                            <img src="/assets/image/moxo.jpg" alt="MOXO Türkiye" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
             <div class="space-50"></div>
             <hr>
             <div class="space-50"></div>
